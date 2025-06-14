@@ -1,4 +1,3 @@
-// Dockerfile
 # 1) build your wheel on slim
 FROM python:3.11-slim AS python-builder
 WORKDIR /src
