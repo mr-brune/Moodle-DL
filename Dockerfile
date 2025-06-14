@@ -1,4 +1,4 @@
-# 1) build your wheel in a builder image
+# 1) build your wheel in a builder imag
 FROM python:3.11-slim AS builder
 
 WORKDIR /md
